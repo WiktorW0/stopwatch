@@ -13,5 +13,5 @@
 
 ## 📷 Screenshots:
 <p align="center">
-<img src="https://i.imgur.com/CgAKu76.png" height="60%" width="60%" alt="Simple weather app"/>
+<img src="https://i.imgur.com/CgAKu76.png" height="60%" width="60%" alt="Stopwatch app"/>
 <br />
