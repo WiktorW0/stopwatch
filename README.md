@@ -1,4 +1,4 @@
-# ⛅ Stopwatch
+# ⏱ Stopwatch
 
 [Demo Page](https://wiktorw0.github.io/stopwatch/)
 
